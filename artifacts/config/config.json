@@ -1,0 +1,9 @@
+{
+    "name": "scythe.vpn_enum",
+    "id": "7794d660-ddc9-11eb-b5dd-a93b1cb35228",
+    "runtime_id": "DD833957-4D55-4A50-9EF3-9752EE95708F",
+    "display_name": "vpn enumerator",
+    "description": "enumerates stored tunnelblick vpn configs",
+    "icon_filename": "default_module_icon.png",
+    "type_flags": "CATEGORY_WORKER"
+}
